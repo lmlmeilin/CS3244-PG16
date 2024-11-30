@@ -30,8 +30,8 @@ The `EDA` directory includes Jupyter notebooks to explore sarcasm data across va
 ## Feature Engineering and Data Cleaning
 
 The `Feature Engineering : Data Cleaning` directory contains:
-- `Bigrams.ipynb` and `Bigrams_Data_Cleaning.ipynb`: Generating and cleaning bigrams.
 - `Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text for sarcasm analysis.
+- - `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams.
 
 ---
 
@@ -40,7 +40,7 @@ The `Feature Engineering : Data Cleaning` directory contains:
 The `Models` directory includes implementations of the following machine learning algorithms:
 - **Decision Tree**: `Decision Tree.ipynb`
 - **K-Nearest Neighbors (KNN)**: `KNN.ipynb`
-- **Logistic Regression**: `Log Regression.ipynb`
+- **Logistic Regression**: `Logistic_Regression.ipynb`
 - **Neural Network**: `Neural Network.ipynb`
 - **Random Forest**: `Random_forest.ipynb`
 - **Support Vector Machine (SVM)**: `SVM.ipynb`
