@@ -54,7 +54,7 @@ Jeong Youngkyu, A0252154M
 
 Odele Pang Kun Ting, A0245935W
 
-Ethan Yeo Alsagoff, 
+Ethan Yeo Alsagoff, A0240231B
 
 Low Mei Lin, A0240908E
 
