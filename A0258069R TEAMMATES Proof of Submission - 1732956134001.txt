@@ -1,0 +1,43 @@
+TEAMMATES Proof of Submission
+1732956134001::20241130164200+0800
+==============================
+Submitted by: YAP YI PIN [e0969041@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+663e47911709fe54769f394fea688b4d
+> e0774829@u.nus.edu
+100
+> e0957742@u.nus.edu
+100
+> e0775506@u.nus.edu
+100
+> e0969901@u.nus.edu
+100
+> e0908222@u.nus.edu
+100
+> e0969041@u.nus.edu
+100
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+ac2f70dd3c19eb7dc2412913b77f0c0b
+> e0969041@u.nus.edu
+Proposal: Brainstorming Problem statementWrote part of the motivation section of the proposalContributed ideas about what to write for General Approach and EvaluationResearch about some of the usable Resourceschecked through the proposal and pointed out any areas which did not make sense   EDA check through and suggested some possible changes to make the EDA clearer Model Training Train and fine-tune random forestChanging the random forest code everytime the group realise we made errors in our codes (eg when we realise the test set is a seperate csv and it is not in kaggle)Standardise random forest code so that it is easy to read and matches with other models' code Project Presentation Consulted the professor about what to focus on for our presentaion (eg what do we need to explain in detail)Did the Random forests and Next Step section of the slides and the corresponding recordingPointed out errors in others' slidesSuggested how to use LIME to explain errors that the SVM made   
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+02f2c4813e0d7680b7e798ad713c7dbe
+> e0774829@u.nus.edu
+he talk quit alot during meeting  and he offered to give some of his presentation timing to others because his part was shorter, that was nice of him
+> e0775506@u.nus.edu
+She offered to help with anybody's part since her part of model training could be done very quickly. that was nice of her. team player
+> e0908222@u.nus.edu
+she took the initiative to do extra things for the group when the rest are too caught up with submissions as hell week came around because she is taking lesser modules and have lesser submissions. appreciated that help. She was also helping to ask questions during the consultations with the prof and the TA. 
+
