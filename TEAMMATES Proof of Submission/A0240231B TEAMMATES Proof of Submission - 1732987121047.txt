@@ -1,0 +1,47 @@
+TEAMMATES Proof of Submission
+1732987121047::20241201011804+0800
+==============================
+Submitted by: ETHAN YEO ALSAGOFF [e0774829@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+a1d8415d3bf363439d086369c1bbb886
+> e0774829@u.nus.edu
+75
+> e0957742@u.nus.edu
+105
+> e0775506@u.nus.edu
+105
+> e0969901@u.nus.edu
+105
+> e0908222@u.nus.edu
+105
+> e0969041@u.nus.edu
+105
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+d1642222bda3eedcfb0f62b2565c89dc
+> e0774829@u.nus.edu
+I was quite vocal in settling the idea and the form of the project. I originally was supposed to be more involved with the settling of the presentation but due to a family emergency i was unable to fulfill that, but my teammates were very understanding and were able to fill in for me while keeping me in the loop. Also did the base decision tree model.
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+04d308a41816eed92574347875278354
+> e0957742@u.nus.edu
+Did the datacleaning and KNN model. Was fairly quiet during discussions but always did his end well and timely, and also would check up on other code. 
+> e0775506@u.nus.edu
+Offered many helpful comments that gave insight and further improved the project. Very proactive in offering help
+> e0969901@u.nus.edu
+Double checked alot of our code and helped make sure our order of operations for our code was correct. Also took on the neural network model which noone else wanted to do with no complaints and did a really good job with it.
+> e0908222@u.nus.edu
+Lead the discussion during meetings and helped standardise code while everyone was busy settling other assignments and preparing for exams. Very proactive in discussions and offering help.
+> e0969041@u.nus.edu
+Would ask for clarification on key topics during conversation that proved very helpful in realising every aspect of the project.
+
