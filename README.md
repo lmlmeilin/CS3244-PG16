@@ -11,8 +11,8 @@ The Kaggle dataset comprises labelled (sarcastic and non-sarcastic) comments scr
 Dataset: https://www.kaggle.com/datasets/danofer/sarcasm
 
 The `Datasets` directory contains:
-- `sentiment_bigram.csv`, `sentiment_bigram_final.csv` and `sentiment_bigram.xlsx`: Bigram-enhanced datasets.
 - `sentiment.csv` and `sentiment_test.csv`: Processed datasets for model training and evaluation.
+- `sentiment_bigram_final.csv`: Processed datasets with top 50 bigrams
 
 ---
 
