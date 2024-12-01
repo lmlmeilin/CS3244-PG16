@@ -11,7 +11,7 @@ The Kaggle dataset comprises labelled (sarcastic and non-sarcastic) comments scr
 Dataset: https://www.kaggle.com/datasets/danofer/sarcasm
 
 The `Datasets` directory contains:
-- `sentiment.csv` and `sentiment_test.csv`: Processed datasets for model training and evaluation.
+- `sentiment.csv` and `sentiment_test.csv`: Processed datasets for model training and evaluation
 - `sentiment_bigram_final.csv`: Processed datasets with top 50 bigrams
 
 ---
@@ -19,19 +19,20 @@ The `Datasets` directory contains:
 ## Exploratory Data Analysis (EDA)
 
 The `EDA` directory includes Jupyter notebooks to explore sarcasm data across various domains:
-- `Sarcasm EDA.ipynb`: General sarcasm exploration.
+- `Sarcasm EDA.ipynb`: General sarcasm exploration of the three subreddits (r/news, r/politics and r/worldnews)
 - Topic-specific EDA: 
-  - `Sarcasm EDA (news).ipynb`
-  - `Sarcasm EDA (politics).ipynb`
-  - `Sarcasm EDA (worldnews).ipynb`
+  - `Sarcasm EDA (news).ipynb`: Focused on subreddit r/news only
+  - `Sarcasm EDA (politics).ipynb`: Focused on subreddit r/politics only
+  - `Sarcasm EDA (worldnews).ipynb`: Focused on subreddit r/wordlnews only
 
+For our EDA, we mainly focused on `train-balanced-sarcasm.csv` to understand data characteristics, identify data quality issues in order to develop effective data cleaning procedures. 
 ---
 
 ## Feature Engineering and Data Cleaning
 
 The `Feature Engineering : Data Cleaning` directory contains:
 - `Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text for sarcasm analysis.
-- - `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams.
+- - `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams
 
 ---
 
