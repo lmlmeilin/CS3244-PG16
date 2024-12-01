@@ -1,0 +1,47 @@
+TEAMMATES Proof of Submission
+1733044576819::20241201171681+0800
+==============================
+Submitted by: JEONG YOUNGKYU [e0957742@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+65653ddf951fcee0ae9ff82f4c667e6e
+> e0774829@u.nus.edu
+100
+> e0957742@u.nus.edu
+100
+> e0775506@u.nus.edu
+100
+> e0969901@u.nus.edu
+100
+> e0908222@u.nus.edu
+100
+> e0969041@u.nus.edu
+100
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+cdf24179ac876af163378de435253247
+> e0957742@u.nus.edu
+I have attempted to train the model using KNN and I have also helped in data cleaning and preprocessing. 
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+44ace5e6969db4326ab4be69513e39fa
+> e0774829@u.nus.edu
+He has done his research on decision tree model and lead the discussion well.
+> e0775506@u.nus.edu
+She has done her research on SVM and she has given many good comments during the discussion.
+> e0969901@u.nus.edu
+He has done his research on RNN and he also has done data cleaning and preprocessing.
+> e0908222@u.nus.edu
+She has helped out in many technical works and she has done her research on log regression.
+> e0969041@u.nus.edu
+She has done her research on her random forest model and she has always raised many questions for us to consider first before moving onto the next portion of the project.
+
