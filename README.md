@@ -11,7 +11,8 @@ The training and test data set is extracted from [Kaggle](https://www.kaggle.com
 Note: Train dataset is downloaded from Kaggle while test dataset is downloaded from Princeton University website which contains the correct test dataset. 
 
 ### Important Note: 
-GitHub imposes a maximum size limit for individual files in a repository. The limit is 100 MB per file, and repositories themselves have a soft limit of 1 GB (though larger repositories can cause performance issues) 
+GitHub imposes a maximum size limit for individual files in a repository. The limit is 100 MB per file, and repositories themselves have a soft limit of 1 GB (though larger repositories can cause performance issues).
+
 As an alternative:  
 On your local machine, download the datasets from this [Google Drive Folder](https://drive.google.com/drive/folders/1Xp_mA2ktuXI6VKt6TsSwDJUI03DWc-Nd?usp=sharing) into the `Datasets` folder.
 
@@ -41,8 +42,9 @@ For our EDA, we mainly focused on `train-balanced-sarcasm.csv` to understand dat
 ## Feature Engineering and Data Cleaning
 
 The `Feature Engineering : Data Cleaning` directory contains:
-- `Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text for sarcasm analysis.
-- - `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams
+- `Train_Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text and feature engineering on train dataset for sarcasm analysis
+- `Train_Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text and feature engineering on test dataset for sarcasm analysis
+- `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams
 
 ---
 
