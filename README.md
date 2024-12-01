@@ -6,13 +6,22 @@ This project focuses on building a machine learning-based sarcasm detection mode
 ---
 
 ## Dataset
-The Kaggle dataset comprises labelled (sarcastic and non-sarcastic) comments scraped from Reddit, which may contain biases. Reddit comments are subjective opinions or reactions of users that may not be fact-checked. The dataset contains about 1 million sarcastic comments (1 million rows) and ten features. 
+The training and test data set is extracted from [Kaggle] (https://www.kaggle.com/datasets/danofer/sarcasm) and [Princeton University Website](https://nlp.cs.princeton.edu/old/SARC/0.0/main/). The datasets comprise of labelled (sarcastic and non-sarcastic) comments scraped from Reddit, which may contain biases. Reddit comments are subjective opinions or reactions of users that may not be fact-checked. The dataset contains about 1 million sarcastic comments (1 million rows) and ten features. 
 
-Dataset: https://www.kaggle.com/datasets/danofer/sarcasm
+Note: Train dataset is downloaded from Kaggle while test dataset is downloaded from Princeton University website which contains the correct test dataset. 
 
-The `Datasets` directory contains:
-- `sentiment.csv` and `sentiment_test.csv`: Processed datasets for model training and evaluation
+### Important Note: 
+GitHub imposes a maximum size limit for individual files in a repository. The limit is 100 MB per file, and repositories themselves have a soft limit of 1 GB (though larger repositories can cause performance issues) 
+As an alternative:  
+On your local machine, download the datasets from this [Google Drive Folder](https://drive.google.com/drive/folders/1Xp_mA2ktuXI6VKt6TsSwDJUI03DWc-Nd?usp=sharing) into the `Datasets` folder.
+
+The `Datasets` directory should contain:
+- `sentiment.csv`: Processed dataset for model training
+- `sentiment_test.csv`: Processed dataset for final model testing/evaluation
 - `sentiment_bigram_final.csv`: Processed datasets with top 50 bigrams
+- `train-balanced-sarcasm.csv`: Raw train dataset before cleaning
+- `test-balanced.csv`: Raw test dataset before cleaning
+- `bert_embeddings_no_pooling_train.pkl`: BERT embeddings with no pooling used during model training
 
 ---
 
@@ -26,6 +35,7 @@ The `EDA` directory includes Jupyter notebooks to explore sarcasm data across va
   - `Sarcasm EDA (worldnews).ipynb`: Focused on subreddit r/wordlnews only
 
 For our EDA, we mainly focused on `train-balanced-sarcasm.csv` to understand data characteristics, identify data quality issues in order to develop effective data cleaning procedures. 
+
 ---
 
 ## Feature Engineering and Data Cleaning
