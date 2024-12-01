@@ -1,0 +1,37 @@
+TEAMMATES Proof of Submission
+1732979100408::20241130230540+0800
+==============================
+Submitted by: NGUYEN HUY DAT [e0969901@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+c867fc07bb49f7d9209cb38e1462d500
+> e0774829@u.nus.edu
+100
+> e0957742@u.nus.edu
+100
+> e0775506@u.nus.edu
+100
+> e0969901@u.nus.edu
+100
+> e0908222@u.nus.edu
+100
+> e0969041@u.nus.edu
+100
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+7f903f684daa95925150ee8ff6de8b72
+> e0969901@u.nus.edu
+I helped with data processing and data cleaning. I'm also the one responsible for the neural network model in our project
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+aa7bdc6564b5d917b12d9cfb248aa26d
+
