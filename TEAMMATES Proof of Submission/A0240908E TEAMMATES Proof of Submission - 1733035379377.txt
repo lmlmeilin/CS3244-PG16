@@ -1,0 +1,47 @@
+TEAMMATES Proof of Submission
+1733035379377::20241201144237+0800
+==============================
+Submitted by: LOW MEI LIN [e0775506@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+8955c74b9543f3f80232f9a33ae093c8
+> e0774829@u.nus.edu
+100
+> e0957742@u.nus.edu
+100
+> e0775506@u.nus.edu
+100
+> e0969901@u.nus.edu
+100
+> e0908222@u.nus.edu
+100
+> e0969041@u.nus.edu
+100
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+c0b94d0c33cf7bf67da26c63d3170757
+> e0775506@u.nus.edu
+Slides: SVM and model evaluation portionSVM model training Exploratory Data AnalysisHelped with some feature engineering (BERT embeddings)
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+176c73271c7d6a614641b078959b9232
+> e0774829@u.nus.edu
+Helpful, team player, helped with all assigned tasks. 
+> e0957742@u.nus.edu
+Helpful, team player, helped with all assigned tasks. 
+> e0969901@u.nus.edu
+Helpful, team player, helped with all assigned tasks. 
+> e0908222@u.nus.edu
+Helpful, team player, helped with all assigned tasks. 
+> e0969041@u.nus.edu
+Helpful, team player, helped with all assigned tasks. 
+
