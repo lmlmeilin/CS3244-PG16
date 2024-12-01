@@ -44,7 +44,7 @@ For our EDA, we mainly focused on `train-balanced-sarcasm.csv` to understand dat
 The `Feature Engineering : Data Cleaning` folder contains:
 - `Train_Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text and feature engineering on train dataset for sarcasm analysis
 - `Train_Sarcasm Data Cleaning and Preprocessing.ipynb`: Preprocessing text and feature engineering on test dataset for sarcasm analysis
-- `Bigrams_Data_Cleaning.ipynb`: Preprocessing text for sarcasm analysis, but keeping the top 50 most common bigrams identified
+- `Bigrams_Data_Cleaning.ipynb`: Preprocessing training dataset for sarcasm analysis, but keeping the top 50 most common bigrams identified
 - `Bert Embedding.ipynb`: Code used to generate the `bert_embeddings_no_pooling_train.pkl` under `Datasets` directory
 
 ---
@@ -55,7 +55,7 @@ The `Models` folder includes implementations of the following machine learning a
 - **Decision Tree**: `Decision Tree.ipynb`
 - **K-Nearest Neighbors (KNN)**: `KNN.ipynb`
 - **Logistic Regression**: `Logistic_Regression.ipynb`
-- **Neural Network**: `Neural Network.ipynb`
+- **Neural Network**: `Neural_Network.ipynb`
 - **Random Forest**: `Random_forest.ipynb`
 - **Support Vector Machine (SVM)**: `SVM.ipynb`
 
