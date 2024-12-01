@@ -1,0 +1,47 @@
+TEAMMATES Proof of Submission
+1732643519635::20241127015163+0800
+==============================
+Submitted by: ODELE PANG KUN TING [e0908222@u.nus.edu]
+Course: CS3244-2024-Semester1
+Session: Teammate rating for project groups
+
+
+
+1: How much work did each team member contribute? (response will be shown anonymously to each team member). 
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkK7259QIDA
+6d9cfead233b6e12057e7f2cb54ffef7
+> e0774829@u.nus.edu
+100
+> e0957742@u.nus.edu
+100
+> e0775506@u.nus.edu
+100
+> e0969901@u.nus.edu
+100
+> e0908222@u.nus.edu
+100
+> e0969041@u.nus.edu
+100
+
+
+2: What contributions did you make to the team? (response will be shown to each team member).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkI6u2ZIJDA
+a0d586939e5f17b7bbc9fa0fc9c04eb7
+> e0908222@u.nus.edu
+Liaised with TA on Slack to ask questions about projectCreated bigrams datasetTrained logistic regression modelHelped standardise codeSet up template for presentation slides
+
+
+3: What comments do you have regarding each of your team members? (response is confidential and will only be shown to the instructor).
+ag1zfnRlYW1tYXRlc3Y0ch0LEhBGZWVkYmFja1F1ZXN0aW9uGICAkO6rtp0JDA
+59c8d3ead84721b0cec788d7f2a55b43
+> e0774829@u.nus.edu
+Helped moved the discussion along, made effort to catch up when he couldn't attend meetings
+> e0957742@u.nus.edu
+Team player, did his part in the project and good communication
+> e0775506@u.nus.edu
+Took lead in asking questions during consults, experimented with different methods to improve her model, team player, good communication
+> e0969901@u.nus.edu
+Took the effort to meet the TA separately to improve his model, team player, good communication
+> e0969041@u.nus.edu
+Team player, dedicated a lot of time to train her model and good communication
+
