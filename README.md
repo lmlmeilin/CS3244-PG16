@@ -1,12 +1,12 @@
 # Sarcasm Detection in Reddit Comments by CS3244 PG16
 
 ## Overview
-This project focuses on building a machine learning-based sarcasm detection models to analyze user comments on the subreddit r/worldnews r/news r/politics. By detecting sarcasm in textual data, the project aims to enhance the understanding of public sentiment, providing value to industries such as journalism, social media monitoring, and natural language processing (NLP) applications. 
+This project focuses on building a machine learning-based sarcasm detection models to analyze user comments on the subreddit r/worldnews, r/news and r/politics. By detecting sarcasm in textual data, the project aims to enhance the understanding of public sentiment, providing value to industries such as journalism, social media monitoring, and natural language processing (NLP) applications. 
 
 ---
 
 ## Dataset
-The training and test data set is extracted from [Kaggle] (https://www.kaggle.com/datasets/danofer/sarcasm) and [Princeton University Website](https://nlp.cs.princeton.edu/old/SARC/0.0/main/). The datasets comprise of labelled (sarcastic and non-sarcastic) comments scraped from Reddit, which may contain biases. Reddit comments are subjective opinions or reactions of users that may not be fact-checked. The dataset contains about 1 million sarcastic comments (1 million rows) and ten features. 
+The training and test data set is extracted from [Kaggle](https://www.kaggle.com/datasets/danofer/sarcasm) and [Princeton University Website](https://nlp.cs.princeton.edu/old/SARC/0.0/main/). The datasets comprise of labelled (sarcastic and non-sarcastic) comments scraped from Reddit, which may contain biases. Reddit comments are subjective opinions or reactions of users that may not be fact-checked. The dataset contains about 1 million sarcastic comments (1 million rows) and ten features. 
 
 Note: Train dataset is downloaded from Kaggle while test dataset is downloaded from Princeton University website which contains the correct test dataset. 
 
