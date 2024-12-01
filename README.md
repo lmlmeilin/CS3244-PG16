@@ -62,8 +62,8 @@ The `Models` folder includes implementations of the following machine learning a
 ---
 
 ## Important Files under Root Folder
-- `Slides.pdf`: Presentation slides for this project
-- `Video.mp4`: Presentation video for this project
+- `PG-16 Presentation Slides.pdf`: Presentation slides for this project
+- `PG-16.mp4`: Presentation video for this project
 - `Statement of Independent Work and References.pdf`: Declaration of Independent Work and Project References
 - `TEAMMATES Proof of Submission`: Folder containing peer evaluations
 
