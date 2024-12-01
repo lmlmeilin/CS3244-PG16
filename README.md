@@ -1,7 +1,7 @@
 # Sarcasm Detection in Reddit Comments by CS3244 PG16
 
 ## Overview
-This project focuses on building machine learning-based sarcasm detection models to analyze user comments on the subreddits r/worldnews, r/news, and r/politics. By detecting sarcasm in textual data, the project aims to enhance the understanding of public sentiment, providing value to industries such as journalism, social media monitoring, and natural language processing (NLP) applications. 
+This project focuses on building machine learning-based sarcasm detection models to analyze user comments on the subreddits r/worldnews, r/news, and r/politics. By detecting sarcasm in textual data, the project aims to enhance the understanding of public sentiment, providing value to industries such as journalism, social media monitoring, and natural language processing (NLP) applications. Ideally, this model will eventually be able to be incorporated into chatbots to enhance their sentiment detection abilities and provide the most appropriate response to different situations.
 
 ---
 
